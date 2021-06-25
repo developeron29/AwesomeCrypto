@@ -1,6 +1,9 @@
 # AwesomeCrypto
 Best and Latest in Cryptocurrency - 2021
 
+![Awesome Crypto](https://user-images.githubusercontent.com/4932001/123420432-2dec1c00-d5d9-11eb-9d33-8daf98506ac3.png)
+
+
 Sponsored by [Everycoinprice](https://everycoinprice.com)
 
 # Table of Contents
@@ -211,5 +214,10 @@ Sponsored by [Everycoinprice](https://everycoinprice.com)
 * [Trust Machine: The Story of Blockchain](https://www.youtube.com/watch?v=hvohNgVWKvw)
 * [The Rise and Rise of Bitcoin](https://www.youtube.com/watch?v=qk4gZrBR9CU)
 * [Inside The Cryptocurrency Revolution](https://www.youtube.com/watch?v=u-vrdPtZVXc)
+
+# Sponsors
+![Everycoinprice](https://user-images.githubusercontent.com/4932001/123420211-e4033600-d5d8-11eb-991a-470242b4601d.png)
+*[EveryCoinPrice](Everycoinprice) displays latest real time price trends of all cryptocurrencies
+
 
 > Disclaimer: This is a curated list of popular resources in cryptocurrency, from 2021. Not financial advice. We are not responsible for any missing or discrepancy in information. Please submit a pull request to request a change. Thanks!
