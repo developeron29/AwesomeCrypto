@@ -159,7 +159,7 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 # Youtube channels
 * [Coin Bureau](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw)
 * [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg)
-* [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan0
+* [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan0)
 * [Tone Vyas](https://www.youtube.com/channel/UCbiWJYRg8luWHnmNkJRZEnw/)
 * [The Moon](https://www.youtube.com/channel/UCc4Rz_T9Sb1w5rqqo9pL1Og)
 * [Crypto Love](https://www.youtube.com/channel/UCu7Sre5A1NMV8J3s2FhluCw)
