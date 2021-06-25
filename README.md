@@ -4,7 +4,7 @@ Best and Latest in Cryptocurrency - 2021
 ![Awesome Crypto](https://user-images.githubusercontent.com/4932001/123420432-2dec1c00-d5d9-11eb-9d33-8daf98506ac3.png)
 
 
-Sponsored by [Everycoinprice](https://everycoinprice.com)
+Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price trend charts of most cryptocurrencies on Everycoinprice
 
 # Table of Contents
 - [Price Trackers](#price-trackers)
