@@ -31,7 +31,7 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 * [Coinranking](https://coinranking.com)
 * [Bitcoincharts](https://bitcoincharts.com/charts/bitstampUSD)
 * [Coingecko](https://coingecko.com)
-* [Cryptopaprika](https://cryptopaprika.com)
+* [Cryptopaprika](https://coinpaprika.com/)
 
 # Cryptocurrency News sites
 * [Bitcoin magazine](https://bitcoinmagazine.com/)
