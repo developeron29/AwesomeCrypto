@@ -75,6 +75,7 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 * [CoinTelegraph](https://twitter.com/Cointelegraph)
 * [Bitcoin News](https://twitter.com/BTCTN)
 * [Ayush Narula](https://twitter.com/developeron29)
+* [itsALLrisky - Dogecoin enthusiast](https://twitter.com/itsALLrisky)
 
 # Exchanges
 * [Binance](https://www.binance.com/en/register?ref=BLEJC98C)
