@@ -48,7 +48,6 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 * [Reddit](https://www.reddit.com/r/CryptoCurrency)
 * [Bitcoin Talk](https://bitcointalk.org/)
 * [CryptoIn Talk](https://cryptointalk.com/)
-* [Masters of Crypto](https://mastersofcrypto.com/forum/)
 * [Bitcoin.com](https://forum.bitcoin.com/)
 * [Bitcoin Garden](https://bitcoingarden.org/forum/index.php)
 * [Cryptocurrency Talk](https://cryptocurrencytalk.com/forum/163-cryptocurrency-discussions/)
