@@ -7,7 +7,7 @@ Best and Latest in Cryptocurrency - 2021
 Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price trend charts of most cryptocurrencies on Everycoinprice
 
 # Table of Contents
-- [Price Trackers](#price-trackers)
+- [Price Tickers](#price-tickers)
 - [Cryptocurrency News Sites](#cryptocurrency-news-sites)
 - [Forums](#forums)
 - [Twitter accounts](#twitter-accounts)
@@ -24,8 +24,9 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 - [Blockchain resources](#blockchain-resources)
 - [Movies](#movies)
 
-# Price trackers
+# Price tickers
 * [Everycoinprice](https://everycoinprice.com)
+* [Cryptowatch](https://cryptowat.ch)
 * [Aggr.trade](https://aggr.trade)
 * [Coinmarketcap](https://coinmarketcap.com)
 * [Coinranking](https://coinranking.com)
