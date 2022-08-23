@@ -1,5 +1,5 @@
 # AwesomeCrypto
-Best and Latest in Cryptocurrency - 2021
+Best and Latest in Cryptocurrency - 2022
 
 ![Awesome Crypto](https://user-images.githubusercontent.com/4932001/123420432-2dec1c00-d5d9-11eb-9d33-8daf98506ac3.png)
 
@@ -221,4 +221,4 @@ Sponsored by [Everycoinprice](https://everycoinprice.com) - Find latest price tr
 * [EveryCoinPrice](Everycoinprice) displays latest real time price trends of all cryptocurrencies
 
 
-> Disclaimer: This is a curated list of popular resources in cryptocurrency, from 2021. Not financial advice. We are not responsible for any missing or discrepancy in information. Please submit a pull request to request a change. Thanks!
+> Disclaimer: This is a curated list of popular resources in cryptocurrency, from 2022. Not financial advice. We are not responsible for any missing or discrepancy in information. Please submit a pull request to request a change. Thanks!
